@@ -1,11 +1,11 @@
-# Hi there, I'm Kieron Sebastian the Circadia Coder! 👋
+# Hi there, I'm Kieron Sebastian! 👋
 
 Welcome to my GitHub profile! I'm a curious developer with a relentless interest in exploring new technologies and strategies.
 Passionate about technology and fascinated by the inner workings of computers, I thrive on turning concepts into efficient, scalable solutions.
 
 ## 🚀 About Me
 
-- 🔭 I’m currently working with Angular, NestJS, Rust, MariaDB, Nerdctl, Docker, Tailwind, and GitLab
+- 🔭 I’m currently working with Angular, NestJS, Rust, MariaDB, Nerdctl, Tailwind, and GitLab
 - 🌱 I’m looking to use more Elixir and Phoenix in my next projects
 - 👯 I’m looking to collaborate on transformative projects that drive impactful change
 - 💬 Ask me about my expertise in the JavaScript Ecosystem
